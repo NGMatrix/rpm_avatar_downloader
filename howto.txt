@@ -1,2 +1,4 @@
-python download_rpm_glb_images.py ids.txt output
+Even though their services ar no longer publically available, some functionaly is still up and running: https://readyplayer.me/avatar
+Update the ids.txt file with your own array of newly created or existing avatars. Then run: python download_rpm_glb_images.py ids.txt output
+
 
