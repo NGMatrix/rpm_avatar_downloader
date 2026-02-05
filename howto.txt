@@ -1,0 +1,2 @@
+python download_rpm_glb_images.py ids.txt output
+
